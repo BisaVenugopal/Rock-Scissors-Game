@@ -27,7 +27,8 @@
 
 body {
   font-family: "Barlow Semi Condensed", sans-serif;
-  background: radial-gradient(at top, var(--bg-grad-1), var(--bg-grad-2));
+  background: #8CC461;
+
   min-height: 100vh;
   text-transform: uppercase;
   color: var(--light-text);
